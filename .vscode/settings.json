@@ -9,5 +9,9 @@
     "files.watcherExclude": {
         "**/node_modules": true,
         "**/.git": true
-    }
+    },
+    "github.copilot.enable": {
+        "*": true
+    },
+    "github.copilot.inlineSuggest.enable": true
 }
